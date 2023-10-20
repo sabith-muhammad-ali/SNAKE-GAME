@@ -1,0 +1,12 @@
+h1,h2,.game-canvas{
+    text-align: center;
+}
+
+#score, #game-status{
+    color: rgb(255, 0, 0);
+}
+body{
+    background-image: url(image/snake.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
